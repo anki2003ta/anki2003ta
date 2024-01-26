@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitanathcse](https://github.com/ankitanathcse)
+- 👨‍💻 All of my projects are available at [https://github.com/anki2003ta)
 
 - 💬 Ask me about **HTML5,CSS,JavaScript,C,JAVA,DSA**
 
