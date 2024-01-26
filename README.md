@@ -1,7 +1,7 @@
 ![logo](https://github.com/anki2003ta/anki2003ta/blob/main/img7.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Nath</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBqYm9mejFxMmJZcTJvV3dxUFIxa3VxcmxwZ3xBQ3Jtc0tsRFN3dXlkWmJKYlYzNXZ4Y3htTC16X2E3aEdsd1lfdFMxZGdQUFp4VzlSOUZqUmdkMzRDclBTM01UTE52TXY2NFpWWHBUTkpFYWRDV0ZEb2k1TGZFUkxlYXl5cjRSUG9YeklGSlpNX1h2c0k5YWRPcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/H9JJYqA3XUkzfgXS7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2003ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2003ta" /> </p>
 
