@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/anki2003ta
 
-- 💬 Ask me about **HTML5,CSS,JavaScript,C,JAVA,DSA**
+- 💬 Ask me about **HTML5,CSS,JavaScript,Bootstrap,NodeJs,ExpressJs,SQL,MongoDB,RESTFUL API,C,JAVA,C++,Python,DSA,LINUX**
 
 - 📫 How to reach me **nathankita2003@gmail.com**
 
