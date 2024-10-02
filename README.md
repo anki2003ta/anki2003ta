@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2003ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2003ta" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack** and **Data Analytics**
 
 - 👨‍💻 All of my projects are available at https://github.com/anki2003ta
 
