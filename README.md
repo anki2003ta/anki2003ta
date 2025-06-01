@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2003ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2003ta" /> </p>
 
-- 🌱 I’m currently learning **MERN stack** and **Data Analytics**
+- 🌱 I’m currently learning **MERN stack** , **Cloud Architecture & Pipeline** and **Data Analytics**
 
 - 👨‍💻 All of my projects are available at https://github.com/anki2003ta
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankita nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita nath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankita-nath-6ab5a121b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita nath" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitaa_484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walk_like_a_princess" height="30" width="40" /></a>
 </p>
 
